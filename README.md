@@ -2,7 +2,7 @@
 
 **Forged by Team WatchDogs for Hacking Summer**
 
-Metro One is a mobile-first, crowdsourced navigation and hazard-reporting application designed for urban commuters. This project shatters reliance on paid mapping services by utilizing an entirely open-source, community-driven spatial awareness system with a sleek, dark-themed UI.
+Disha is a mobile-first, crowdsourced navigation and hazard-reporting application designed for urban commuters. This project shatters reliance on paid mapping services by utilizing an entirely open-source, community-driven spatial awareness system with a sleek, dark-themed UI.
 
 ## 🌟 Core Manifestations (Features)
 
