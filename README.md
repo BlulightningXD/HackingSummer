@@ -1,1 +1,1 @@
-# Hacking Summer
+# Hacking Summer by Team WatchDogs
