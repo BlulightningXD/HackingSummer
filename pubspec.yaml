@@ -1,0 +1,15 @@
+name: deadzone_engine
+description: "High-performance, low-footprint offline transit graph engine with SQLite caching, A*/Dijkstra local routing, and heartbeat delta-sync."
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  sqlite3: ^2.4.6
+  meta: ^1.15.0
+
+dev_dependencies:
+  test: ^1.25.8
+  lints: ^4.0.0
