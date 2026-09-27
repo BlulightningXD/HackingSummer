@@ -1,0 +1,15 @@
+name: auth_handler
+description: "Standalone Google / Gmail authentication module for user verification and community report provenance."
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  meta: ^1.15.0
+  http: ^1.2.0
+
+dev_dependencies:
+  test: ^1.25.8
+  lints: ^4.0.0
