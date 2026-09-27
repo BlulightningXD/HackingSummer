@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "638998379928",
+    "project_id": "disha-delhi",
+    "storage_bucket": "disha-delhi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638998379928:android:60f27221cf9682a685bfed",
+        "android_client_info": {
+          "package_name": "com.example.metro_one_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638998379928-55gik4jtbvcakork3cj4321so6bgujoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.metro_one_app",
+            "certificate_hash": "46d4e42e7c6899a8ab1aa25e5c6c2f827b74933f"
+          }
+        },
+        {
+          "client_id": "638998379928-g6jr4kr34jlufh8ts81p69q2phv4vfm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvmCuvj_oImLnQODeNJG-P28-37mMKRKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638998379928-g6jr4kr34jlufh8ts81p69q2phv4vfm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

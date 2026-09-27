@@ -1,12 +1,17 @@
-# Hacking Summer by Team WatchDogs
+# metro_one_app
 
-## Google Authentication Module for Disha
+A new Flutter project.
 
-> Handles Google Sign-in for Disha application, maintaining user sessions across app restarts. Also includes sample emails
+## Getting Started
 
----
+This project is a starting point for a Flutter application.
 
-### What It uses
+A few resources to get you started if this is your first Flutter project:
 
-- Uses OAuth 2.0 client IDs to authenticate users
-- Uses Gmail API to fetch user profile information
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

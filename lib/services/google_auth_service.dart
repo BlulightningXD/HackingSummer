@@ -138,7 +138,7 @@ class GoogleAuthService {
     }
 
     final user = AuthUser(
-      id: 'google_sub_${email.hashCode.abs()}',
+      id: 'google_sub_dev_${email.replaceAll('@', '_').replaceAll('.', '_')}',
       email: email,
       displayName: displayName,
       photoUrl: photoUrl,
